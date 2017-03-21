@@ -30,6 +30,12 @@ This is slim react skeleton.
 
 ## command
 
+### setup
+
+```bash
+npm run setup
+```
+
 ### dev
 
 run dev environment
