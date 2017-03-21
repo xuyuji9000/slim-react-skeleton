@@ -1,5 +1,5 @@
-# php image server 
-This is an image server demo.
+# slim react skeleton
+This is slim react skeleton.
 
 ## command
 
