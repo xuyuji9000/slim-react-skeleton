@@ -14,14 +14,6 @@
     "autoload": {
         "psr-4": {
             "App\\": "app"
-        },
-        "files": [
-            "app/functions.php"
-        ],
-        "classmap": [
-            "app/classes",
-            "database/classes",
-            "database/models"
-        ]
+        }
     }
 }
