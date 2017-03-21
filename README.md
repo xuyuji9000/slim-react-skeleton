@@ -1,6 +1,33 @@
 # slim react skeleton
 This is slim react skeleton.
 
+## directories
+
+'php'
+
+1. controllers
+
+2. libraries
+
+3. public
+
+4. tests
+
+5. config
+
+6. composer.json
+
+'js'
+
+1. src
+
+2. index.html
+
+3. package.json
+
+4. webpack.config.js
+
+
 ## command
 
 ### dev
